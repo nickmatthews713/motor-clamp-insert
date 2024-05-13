@@ -39,7 +39,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-Welcome to my first venture into Additive Manufacturing! In this project, I've designed and printed a model for a rod clamp insert, utilizing the powerful tools of SolidWorks for design creation. This endeavor marks my initial exploration into the world of 3D printing, offering an opportunity to blend creativity with practical application.
+Welcome to my first venture into Additive Manufacturing! In this project, I've designed and printed a model for a rod clamp insert, utilizing SolidWorks for design creation. This project marks my initial exploration into the world of 3D printing, offering an opportunity to blend creativity with practical application.
 
 ### Built With
 
